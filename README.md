@@ -1,6 +1,6 @@
 # Sam on Sax Website
 
-Custom portfolio website I created for a friend in 2023. Not too fancy, created just the way that she wanted it to be.
+Custom portfolio website I created for a friend in 2023. Not fancy, created just the way that she wanted it to be.
 
 ## Technologies
 - HTML
