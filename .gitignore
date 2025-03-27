@@ -1,0 +1,14 @@
+# gitignore
+
+# error log
+error_log
+
+#ht access
+.htaccess
+
+# program files
+firebase.js
+
+# folders
+.well-known
+cgi-bin
